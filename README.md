@@ -1,6 +1,6 @@
 <h2 align="left">
   Hi there 👋<br><br>
-  I'm Mohamed Magdy Mohamed Fahmy<br>
+  I'm Mohamed Magdy <br>
   Full Stack Web Developer 💻
 </h2>
 
